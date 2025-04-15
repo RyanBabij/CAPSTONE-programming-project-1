@@ -1,6 +1,6 @@
 # CAPSTONE Programming Project 1 – **Car4All**
 
-This repository contains the source code for **Car4All**, a capstone software development project created by **H-Tue-Group-35**. Built using PHP, Laravel, Firebase, and Google Maps, the project demonstrates a modern web application for car sharing and rental services, integrating both back-end logic and front-end interactivity.
+Car4All is a modern web application for car sharing and rental services, integrating both back-end logic and front-end interactivity, and using CircleCI for continuous deployment.
 
 ---
 
