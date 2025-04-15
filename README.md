@@ -1,7 +1,3 @@
-Thanks for the code snippet — that really helps show what the project is doing! Based on it, here's an expanded and improved version of your `README.md` with a more complete **Project Overview** section that reflects the purpose and functionality of your web app:
-
----
-
 # CAPSTONE Programming Project 1 – **Car4All**
 
 This repository contains the source code for **Car4All**, a capstone software development project created by **H-Tue-Group-35**. Built using PHP, Laravel, Firebase, and Google Maps, the project demonstrates a modern web application for car sharing and rental services, integrating both back-end logic and front-end interactivity.
