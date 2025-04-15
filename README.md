@@ -108,15 +108,3 @@ This project serves as a comprehensive showcase of what a full-stack team can ac
 - Validate map and database integrations using browser developer tools
 - Firebase Firestore permissions and rules should be set appropriately
 
----
-
-## Contributing
-
-We welcome contributions and feedback. Please fork the repository and submit pull requests, or raise issues in the GitHub issue tracker.
-
----
-
-## License
-
-© 2020 H-Tue-Group-35  
-This project is licensed for educational and demonstration purposes.
